@@ -5,8 +5,8 @@
 #include <string>
 using namespace std;
 
-int fact(int n) { return n > 1 ? fact(n - 1) * n : 1; }
-
+//int fact(int n) { return n > 1 ? fact(n - 1) * n : 1; }
+/**
 
 int main() {
     int r, r_max, i, value;
@@ -28,3 +28,4 @@ int main() {
 
     return 0;
 }
+*/
